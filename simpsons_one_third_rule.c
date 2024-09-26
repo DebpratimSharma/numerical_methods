@@ -26,7 +26,7 @@ int main(void){
 
     }
 
-    //sum of all the elements except the first and last element of y(y0 and yn)
+    //sum of the even y's and odd y's
     for(i=1;i<=n-1;i++)
     {
         if(i%2!=0)
