@@ -7,4 +7,6 @@ The Repository contains codes for
 5. Regula Falsi Method
 6. Newton Raphspn Method
 7. Euler's Method
+8. Newton's Forward Difference Interpolation Method.
+9. Newton's Backward Difference Interpolation Method 
 # In future more topics will be covered. This repository might be helpful from the exam point of view. Lines of codes are explained so, it becomes easy to understand what is happening and why... If I made any mistake do let me know and lastly... Thank you for reaching here. It means a lot.
